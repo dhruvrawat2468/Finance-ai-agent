@@ -10,5 +10,5 @@ The project aims to bridge the gap in digital financial literacy by providing us
 It supports **conversations in multiple Indian languages** and is accessible via a simple chat interface.
 
 <h3> HOW TO USE?</h3>
-* Type your query in the search box in any preferred language OR Select one from the sample questions
+* Type your query in the search box in any preferred language OR Select one from the sample questions<br>
 *Press enter and keep conversing with the agent as and how you like
